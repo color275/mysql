@@ -1,0 +1,1 @@
+select * from information_schema.INNODB_LOCK_WAITS\G

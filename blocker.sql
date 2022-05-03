@@ -1,0 +1,1 @@
+select * FROM information_schema.INNODB_TRX\G

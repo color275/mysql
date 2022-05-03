@@ -1,0 +1,3 @@
+-- 패스워드에 # 포함되어 있으면 안됨...
+mysql_config_editor set --login-path=myroot --host=127.0.0.1 --user=root --port=3306 --password
+mysql --login-path=myroot
